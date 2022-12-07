@@ -1,0 +1,38 @@
+﻿<Window x:Class="ForrestGump.OutTimer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ForrestGump"
+        mc:Ignorable="d"
+        FontFamily="Comic Sans MS"
+        WindowStartupLocation="CenterScreen"
+        Title="Сеанс завершен" 
+        Height="250"
+        Width="400">
+    <Grid
+        Background="#FF247A00">
+        <Border
+           Width="300"
+           CornerRadius="20"
+           Margin="10"
+           Background="#FF49A950">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Vertical">
+                <TextBlock 
+                            Text="Ваш сеанс подошёл к концу, пожалуйста, зайдите в систему заново"
+                            TextAlignment="Center"
+                            TextWrapping="Wrap"
+                            FontSize="18"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Margin="0,0,0,40"/>
+                <Button
+                Width="100"
+                Height="30"
+                Content="Закрыть"
+                Click="close"
+                Margin="0,0,0,0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
