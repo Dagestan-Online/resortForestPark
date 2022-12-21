@@ -37,3 +37,42 @@ C:\Users\vlad2\Рабочий стол\практика 4 курс кал еба
 C:\Users\vlad2\Рабочий стол\практика 4 курс кал ебаный сука\proga\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.CopyComplete
 C:\Users\vlad2\Рабочий стол\практика 4 курс кал ебаный сука\proga\ForrestGump\ForrestGump\obj\Debug\ForrestGump.exe
 C:\Users\vlad2\Рабочий стол\практика 4 курс кал ебаный сука\proga\ForrestGump\ForrestGump\obj\Debug\ForrestGump.pdb
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\ForrestGump.exe.config
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\ForrestGump.exe
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\ForrestGump.pdb
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\EntityFramework.dll
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\EntityFramework.SqlServer.dll
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\EntityFramework.xml
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\EntityFramework.SqlServer.xml
+D:\gits\pp\ForrestGump\ForrestGump\bin\Debug\ru\EntityFramework.resources.dll
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.AssemblyReference.cache
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.SuggestedBindingRedirects.cache
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\AdminProfile.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\AdminWindow.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\EditOrders.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\Home.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\HomeSeniorSeller.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\MainWindow.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\NewClient.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\newOrders.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\OutTimer.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\App.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump_Content.g.cs
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump_MarkupCompile.cache
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump_MarkupCompile.lref
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\AdminProfile.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\AdminWindow.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\EditOrders.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\Home.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\HomeSeniorSeller.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\MainWindow.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\NewClient.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\newOrders.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\OutTimer.baml
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.g.resources
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.Properties.Resources.resources
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.GenerateResource.cache
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.CoreCompileInputs.cache
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.csproj.CopyComplete
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.exe
+D:\gits\pp\ForrestGump\ForrestGump\obj\Debug\ForrestGump.pdb

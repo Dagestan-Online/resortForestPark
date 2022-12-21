@@ -22,6 +22,7 @@ namespace ForrestGump
             DataGridClients.ItemsSource = db.Clients.ToList();
             cbService.ItemsSource = db.Services.ToList();
             nowEmploee = authEmploe;
+            massComboBoxs[0] = cbService;
         }
         int indexNameComboBoxs = 1;
         ComboBox[] massComboBoxs = new ComboBox[100];
@@ -29,7 +30,6 @@ namespace ForrestGump
         {
             if (indexNameComboBoxs < 9)
             {
-                massComboBoxs[0] = cbService;
                 ComboBox comboBox = new ComboBox();
                 comboBox.Name = "cbService" + indexNameComboBoxs;
                 indexNameComboBoxs++;

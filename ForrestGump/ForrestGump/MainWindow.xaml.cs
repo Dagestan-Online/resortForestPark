@@ -202,6 +202,15 @@ namespace ForrestGump
                 else
                 {
                     MessageBox.Show("Пароль введен неверно", "Внимание!", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    i = i + 1;
+                    if (i == 3)
+                    {
+                        ImCaph.Visibility = Visibility.Visible;
+                        ImCaph.Source = ImageSourceFromBitmap(CreateImage(200, 50));
+                        capchaTB.Visibility = Visibility.Visible;
+                        CaphBtn.Visibility = Visibility.Visible;
+                        autorizationBtn.IsEnabled = false;
+                    }
 
                     LoginHistory loginHistory = new LoginHistory()
                     {
